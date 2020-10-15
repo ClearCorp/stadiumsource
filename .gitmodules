@@ -14,3 +14,7 @@
 	path = server-tools
 	url = git@github.com:Vauxoo/server-tools.git
 	branch = 12.0
+[submodule "account_reconcile_partial"]
+	path = account_reconcile_partial
+	url = git@git.vauxoo.com:vauxoo/account_reconcile_partial.git
+	branch = 12.0
